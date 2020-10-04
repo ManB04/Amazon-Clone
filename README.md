@@ -1,3 +1,9 @@
+Using React-JS, React-Context-API, Google Firebase, Stripe(payment integration is done using public & private test keys) implemented a Amazon clone website with full User Authentication and Stripe payment.
+Here payment integration is done using public & private test keys hence it's not real time payment but it goes through same process as any real time payment.
+Type 42 continuosly in payment information without pressing tab to make a test payment.
+Website is deployed using Firebase and is live now, feel free to check it out here : https://clone-83c93.web.app
+This project was built with help of Clever Programmer youtube tutorials, check out full playlist here: https://www.youtube.com/watch?v=_Z6eRoagmz4
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
